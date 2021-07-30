@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaxteller2016
-- 👀 I’m interested in working in DEFI, Algo trading or Dapps
+- 👀 I’m interested in working in DEFI, Algo trading or Dapps development
 - 🌱 I’m currently learning React Native and Python
 - 💞️ I’m looking to collaborate on any Dapp
 - 📫 How to reach me: sorin.craciunescu84@gmail.com
